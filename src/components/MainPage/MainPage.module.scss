@@ -1,0 +1,15 @@
+@import '../../../styles/variables';
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 24px;
+  min-height: 100vh;
+  max-width: 960px;
+}
+
+.green {
+  color: $green;
+}

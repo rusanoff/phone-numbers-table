@@ -1,0 +1,9 @@
+@import 'variables';
+@import '../node_modules/modern-css-reset/dist/reset.min.css';
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: $white;
+  color: $black;
+}

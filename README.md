@@ -1,2 +1,2 @@
 # phone-numbers-table
-Phone numbers excel table generator
+Russian phone numbers excel table generator
